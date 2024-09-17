@@ -16,7 +16,7 @@
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
-  define('URLROOT', 'http://localhost/stock-management');
+  define('URLROOT', 'http://52.91.160.6/stock-management');
   // Site Name
   define('SITENAME', 'STOCK MANAGEMENT SYSTEM');
   // App Version
