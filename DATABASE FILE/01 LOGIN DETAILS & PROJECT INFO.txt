@@ -1,0 +1,19 @@
+
+
+**Database Name: stockphp**
+**Admin Login Details**
+
+ID	: 1
+Password: 12345
+
+**Sites Login
+
+ID	: 2
+Password: 12345
+
+ID	: 10
+Password: 12345
+
+
+
+
